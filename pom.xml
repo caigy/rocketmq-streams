@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!--
   Licensed to the Apache Software Foundation (ASF) under one or more
   contributor license agreements.  See the NOTICE file distributed with
@@ -67,7 +67,7 @@
         <httpclient.version>4.5.2</httpclient.version>
         <commons-io.version>2.5</commons-io.version>
         <junit.version>4.12</junit.version>
-        <guava.version>25.1-jre</guava.version>
+        <guava.version>32.0.0-jre</guava.version>
         <groovy.version>2.1.8</groovy.version>
         <disruptor.version>3.2.0</disruptor.version>
         <rocksdbjni.version>6.6.4</rocksdbjni.version>
